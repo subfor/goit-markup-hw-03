@@ -349,12 +349,12 @@ p {
   /* gap: 16px; */
 }
 
-.logo--footer {
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
 
-.logo--footer .logo-end {
+.footer-logo .logo-end {
   color: var(--cloud);
 }
 
