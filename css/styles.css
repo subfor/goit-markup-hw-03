@@ -87,6 +87,7 @@ p {
 
 .logo-end {
   color: var(--navy-blue);
+  display: inline-block;
 }
 
 .logo--footer {
