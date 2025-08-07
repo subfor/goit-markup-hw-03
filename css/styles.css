@@ -91,6 +91,8 @@ p {
 
 .logo--footer .logo-end {
   color: var(--cloud);
+  display: inline-block;
+  margin-bottom: 16px;
 }
 
 .header-logo {
@@ -349,7 +351,7 @@ p {
   display: flex;
   flex-direction: column;
   align-items: left;
-  gap: 16px;
+  /* gap: 16px; */
 }
 
 .page-footer .footer-text {
