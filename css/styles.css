@@ -89,10 +89,13 @@ p {
   color: var(--navy-blue);
 }
 
-.logo--footer .logo-end {
-  color: var(--cloud);
+.logo--footer {
   display: inline-block;
   margin-bottom: 16px;
+}
+
+.logo--footer .logo-end {
+  color: var(--cloud);
 }
 
 .header-logo {
